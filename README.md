@@ -24,7 +24,7 @@ N= 20, K=1
 
 Clone the maml repo
 ```
-https://github.com/mohankumarSriram/meta-learning-basics.git
+https://github.com/mohankumarSriram/maml.git
 ```
 
 Clone the dataset repo
